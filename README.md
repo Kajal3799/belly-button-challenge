@@ -19,7 +19,7 @@
    5. Use otu_labels for the text values.
 
 ### Output:
-![Alt text](Images/Bubble_Chart.png)
+![Alt text](Images/bubble_chart.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
